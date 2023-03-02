@@ -6,17 +6,17 @@ Although there are pre-trained models available for detecting vegetables on the 
 
 # Dataset
 
-##Vegetables:
-Tomato
-Bell Peper
-New Mexico Green Chile
-Chile Peper
+## Vegetables:
+Tomato<br>
+Bell Peper<br>
+New Mexico Green Chile<br>
+Chile Peper<br>
 
-##Vegetables are classified as:
-Damaged
-Dried
-Old
-Ripe
-Unripe
-
+## Vegetables are classified as:
+Damaged<br>
+Dried<br>
+Old<br>
+Ripe<br>
+Unripe<br>
+<br><br>
 Accuracy of pre-existing models is calculated on VegNet dataset. Then training and testing is done to detect the vegetable along with its quality.
